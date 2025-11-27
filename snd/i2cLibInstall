@@ -1,0 +1,5 @@
+$ wget https://github.com/vinhcatba/i2c1602/archive/refs/heads/main.zip
+$ unzip main.zip
+$ cd i2c1602-main
+$ make
+$ sudo make install
